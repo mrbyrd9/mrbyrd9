@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrbyrd9.
 - 👀 I’m interested in software development, and am seeking to gain experience in most if not all fields pertaining to coding and computer science.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I have used Java in multiple projects, and I’m currently learning HTML, CSS, and JavaScript. My next goals are Python, C++, and Ruby.
 
 I am currently a senior college student studying computer science, with a concentration in Information Assurance and Security and an interest in software development.
 
